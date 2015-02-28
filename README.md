@@ -1,3 +1,3 @@
 # ModPE-Script
 
-I Upload ModPE Methods that I build.
+I Upload ModPE Methods or sources that I build.
